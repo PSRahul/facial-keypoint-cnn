@@ -10,7 +10,7 @@ Measure -  MSELoss
 Optimiser -  Adagrad 
 
 Trained Using dataset from Kaggle
-https://www.kaggle.com/c/facial-keypoints-detection/data -"The data set for this competition was graciously provided by Dr. Yoshua Bengio of the University of Montreal."
+https://www.kaggle.com/c/facial-keypoints-detection/data 
 
 Sample images provide model predictions versus  the true values.
 
