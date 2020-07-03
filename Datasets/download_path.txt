@@ -1,0 +1,8 @@
+For re-training ,please download the train and test data from
+
+https://www.kaggle.com/c/facial-keypoints-detection/data
+
+and rename
+
+test.csv     --> test_orginal.csv
+training.csv --> train_orginal.csv
