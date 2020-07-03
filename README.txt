@@ -17,5 +17,5 @@ Sample images provide model predictions versus  the true values.
 
 
 Future Possible Work
-1.Augmented train dataset with manual labelling of keypoints
+1.Augmented train dataset with manual labelling of keypoints\n
 2.Using advanced layers such as skip and residual nets.
