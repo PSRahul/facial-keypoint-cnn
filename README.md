@@ -1,2 +1,4 @@
-# facial_keypoint_cnn
-A Facial Keypoint Detector based on convolution neural networks
+# Facial Keypoint Detector 
+
+This deep learning model based on convolutional neural networks detect the facial keypoints of left eye , right eye and mouth.
+
