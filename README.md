@@ -5,7 +5,7 @@ This deep learning model based on convolutional neural networks detects left eye
 The model has 7 Convolutional layers and 3 Linear layers implemented with Pytorch.
 
 ## Metrics and Optimizer
-Loss Function -  MSELoss
+Loss Function -  MSELoss     
 Optimiser-   Adagrad 
 
 ## Dataset 
