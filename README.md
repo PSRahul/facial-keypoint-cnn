@@ -1,4 +1,4 @@
-Facial Keypoint Detector 
+# Facial Keypoint Detector 
 
 This deep learning model based on convolutional neural networks detects left eye , right eye and mouth from a image of a face.
 
@@ -14,7 +14,9 @@ https://www.kaggle.com/c/facial-keypoints-detection/data
 
 Sample images provide model predictions versus  the true values.
 
-
+![](sample1.png)            | ![](sample4.png)
+:-------------------------:|:-------------------------:
+![](sample2.png)  | ![](sample3.png)
 
 Future Possible Work
 1.Augmented train dataset with manual labelling of keypoints
